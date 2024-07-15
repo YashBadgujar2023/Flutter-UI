@@ -1,1 +1,1 @@
-Panchat
+Panchat UI
